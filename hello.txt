@@ -1,0 +1,2 @@
+Hello, I am Daniel, TYBCA student"
+I am learning Git and GitHub on Oracle Vm
